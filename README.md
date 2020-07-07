@@ -1,6 +1,6 @@
 # Simple Book Review Website using Flask and SQL
 
-Run Flask using 'Flask run'  
+Run App using 'Flask run'  
   - app.py will be run automatically by Flask server  
   - if error occurs, manually set DATABASE_URL environment variable before running server  
   
